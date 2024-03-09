@@ -1,6 +1,6 @@
 ![logo](https://github.com/TheAbhiPatel/theabhipatel/blob/main/banner.png)
 
-<h1 align="center" style="font-size:5rem;">Hello there 👋, I'm Abhishek Patel</h1>
+<h1 align="center" style="font-size: 100px;">Hello there 👋, I'm Abhishek Patel</h1>
 <h3 align="center">A Full Stack web Developer</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
