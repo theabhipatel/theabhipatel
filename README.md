@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theabhipatel&label=Profile%20views&color=0e75b6&style=flat" alt="theabhipatel" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theabhipatel" alt="theabhipatel" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theabhipatel" alt="theabhipatel" /></a> </p> -->
 
 - 👨‍💻 All of my projects are available at [https://www.theabhipatel.com/](https://www.theabhipatel.com/)
 
