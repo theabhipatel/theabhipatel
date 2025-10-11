@@ -1,4 +1,4 @@
-# ![logo](https://github.com/TheAbhiPatel/theabhipatel/blob/main/banner.png)
+<!--  # ![logo](https://github.com/TheAbhiPatel/theabhipatel/blob/main/banner.png) -->
 
 <img width="1903" height="915" alt="theabhpatel" src="https://github.com/user-attachments/assets/011f0df3-7593-4d90-8b6a-fffffd39060d" />
 
