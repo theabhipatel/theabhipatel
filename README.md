@@ -5,8 +5,6 @@
 
 <h1 align="center" style="font-size: 200px;">Hello there 👋, I'm Abhishek Patel</h1>
 <div align="center">
-  
-# Hello Dev 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=TheAbhiPatel;Full%20Stack%20Developer;3%2B+Years+Experience;Developemnt+Cloud+Architecture+Expert)](https://git.io/typing-svg)
 
