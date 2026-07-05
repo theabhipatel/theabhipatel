@@ -1,75 +1,153 @@
-<!--  # ![logo](https://github.com/TheAbhiPatel/theabhipatel/blob/main/banner.png) -->
 
-<img width="1903" height="915" alt="theabhpatel" src="https://github.com/user-attachments/assets/011f0df3-7593-4d90-8b6a-fffffd39060d" />
+# Hi there 👋 I'm **Abhishek Patel**
 
+> **Full Stack & DevOps Engineer | Building AI Agents & Scalable Systems**
 
-<h1 align="center" style="font-size: 200px;">Hello there 👋, I'm Abhishek Patel</h1>
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=TheAbhiPatel;Full%20Stack%20Developer;3%2B+Years+Experience;Developemnt+Cloud+Architecture+Expert)](https://git.io/typing-svg)
-
-</div>
-<h3 align="center">A Full Stack web Developer</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=theabhipatel&label=Profile%20views&color=0e75b6&style=flat" alt="theabhipatel" /> </p>
-
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theabhipatel" alt="theabhipatel" /></a> </p> -->
-
-- 👨‍💻 All of my projects are available at [https://www.theabhipatel.com/](https://www.theabhipatel.com/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/theabhipatel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="theabhipatel" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/011f0df3-7593-4d90-8b6a-fffffd39060d" width="100%" alt="Banner"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Full+Stack+%26+DevOps+Engineer;Building+AI+Agents+%26+Scalable+Systems;React+%7C+Node.js+%7C+TypeScript;AWS+%7C+Docker+%7C+Kubernetes;Always+Learning+🚀"/>
+</p>
 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+---
 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<p align="center">
 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-<!-- ################################## -->
+🐙 <a href="https://github.com/theabhipatel"><b>GitHub</b></a> &nbsp; • &nbsp;
+💼 <a href="https://linkedin.com/in/theabhipatel"><b>LinkedIn</b></a> &nbsp; • &nbsp;
+🌐 <a href="https://theabhipatel.com"><b>Portfolio</b></a> &nbsp; • &nbsp;
+📧 <a href="mailto:theabhipatel.co@gmail.com"><b>Email</b></a>
 
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-</a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-</a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-</a>
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-<a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
-<a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a>
+---
 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
-<a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+# 🚀 About Me
 
-<a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/>
-</a>
+I'm **Abhishek Patel (TheAbhiPatel)**, a **Full Stack & DevOps Engineer** with 3+ years of experience building scalable web applications, cloud infrastructure, APIs, AI-powered systems, and modern developer tooling.
 
-<a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+My academic background is in Agriculture, but my passion for technology led me into software engineering. Today I build products across frontend, backend, DevOps, cloud infrastructure, and AI.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=theabhipatel&show_icons=true&locale=en&layout=compact&theme=merko" alt="theabhipatel" /></p>
+## 💼 Current Focus
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theabhipatel&show_icons=true&locale=en&theme=merko" alt="theabhipatel" /></p>
+- 🤖 AI Agents & MCP Servers
+- ☁️ AWS Cloud
+- 🐳 Docker & Kubernetes
+- ⚡ REST APIs
+- 🌐 MERN & Next.js
+- 📚 DSA & System Design
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theabhipatel&theme=merko" alt="theabhipatel" /></p>
+---
+
+# 🛠 Tech Stack
+
+## 🎨 Frontend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,sass,materialui,vite,webpack,babel,figma" />
+</p>
+
+---
+
+## ⚙️ Backend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,postman" />
+</p>
+
+---
+
+## 🗄️ Database & Cache
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,firebase,supabase" />
+</p>
+
+---
+
+## ☁️ Cloud & DevOps
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,nginx,linux,git,github,githubactions,terraform,prometheus,grafana,jenkins,ansible" />
+</p>
+
+<p align="left">
+  <img src="https://cdn.simpleicons.org/argo/EF7B4D" height="48" alt="ArgoCD"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/cloudflare/F38020" height="48" alt="Cloudflare"/>
+</p>
+
+---
+
+## 🤖 AI & Automation
+
+<p align="left">
+   <img src="https://cdn.simpleicons.org/anthropic/white" height="42" alt="Claude"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/googlegemini" height="42" alt="Google Gemini"/>
+  &nbsp;&nbsp;
+   <img src="https://cdn.simpleicons.org/openai/white" height="42" alt="OpenAI"/>
+  &nbsp;&nbsp;
+</p>
+
+- 🤖 OpenAI API
+- 🧠 Claude API
+- ✨ Google Gemini
+- 🔗 Model Context Protocol (MCP)
+- 🤖 AI Agents
+- ⚡ AI Automation
+
+---
+
+# 🌟 Featured Projects
+
+- 🚀 **Setu** — Real-time messaging platform with Public API & MCP Server.
+- 🌐 **Portfolio** — Next.js portfolio with modern UI.
+- ☁️ **DevOps Infrastructure** — Docker, AWS, Kubernetes, Agro CD, CI/CD.
+- 🤖 **AI Projects** — AI agents & automation.
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=theabhipatel&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theabhipatel&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=theabhipatel&theme=github-dark&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=theabhipatel&theme=github-dark&hide_border=true"/>
+</p>
+
+---
+
+# 🎯 Goals
+
+- Build AI products
+- Contribute to Open Source
+- Master Kubernetes
+- Publish technical blogs
+- Grow TheAbhiPatel
+
+---
+
+# 🌐 Connect
+
+- Portfolio: https://theabhipatel.com
+- LinkedIn: https://linkedin.com/in/theabhipatel
+- GitHub: https://github.com/theabhipatel
+- Email: theabhipatel.co@gmail.com
+
+---
+
+> **Build things that solve real problems.**
+
+⭐ Thanks for visiting my profile!
