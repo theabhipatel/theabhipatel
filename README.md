@@ -1,7 +1,7 @@
 
 # Hi there 👋 I'm **Abhishek Patel**
 
-> **Full Stack & DevOps Engineer | Building AI Agents & Scalable Systems**
+> **Full Stack AI Engineer | Building AI Agents & Scalable Systems**
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/011f0df3-7593-4d90-8b6a-fffffd39060d" width="100%" alt="Banner"/>
@@ -28,7 +28,7 @@
 
 # 🚀 About Me
 
-I'm **Abhishek Patel (TheAbhiPatel)**, a **Full Stack & DevOps Engineer** with 4+ years of experience building scalable web applications, cloud infrastructure, APIs, AI-powered systems, and modern developer tooling.
+I'm **Abhishek Patel (TheAbhiPatel)**, a **Full Stack AI Engineer** with 4+ years of experience building scalable web applications, cloud infrastructure, APIs, AI-powered systems, and modern developer tooling.
 
 My academic background is in Agriculture, but my passion for technology led me into software engineering. Today I build products across frontend, backend, DevOps, cloud infrastructure, and AI.
 
